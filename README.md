@@ -1,83 +1,94 @@
-# 👋 Hi, I'm R Jeyadev
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">R Jeyadev</span></h1>
 
-🎓 **B.Tech (AI & Data Analytics)** | Sri Ramachandra Faculty of Engineering  
-📍 Chennai, India  
-📧 [jeyadev2006@gmail.com](mailto:jeyadev2006@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/r-jeyadev)
-
----
-
-## 🚀 About Me
-
-I’m a **Data Analyst and AI Enthusiast** passionate about transforming raw data into meaningful insights.  
-I specialize in **data analysis**, **machine learning**, and **AI model development** — focusing on real-world applications that improve decision-making and human well-being.  
-
-💡 I’m currently learning advanced **time-series forecasting** and **deep learning** techniques.  
-🌱 I enjoy building predictive systems, analytical dashboards, and AI-driven web applications.  
+<p align="center">
+🎓 <b>B.Tech (AI & Data Analytics)</b> | Sri Ramachandra Faculty of Engineering<br>
+📍 Chennai, India | 📧 <a href="mailto:jeyadev2006@gmail.com">jeyadev2006@gmail.com</a><br>
+🔗 <a href="https://www.linkedin.com/in/r-jeyadev">LinkedIn</a> | 🌐 <a href="https://github.com/jeyadev2006">GitHub</a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧑‍💻 About Me
 
-- **Languages:** Python, JavaScript, C  
-- **Machine Learning:** TensorFlow, Keras, Scikit-learn, XGBoost, YOLOv7, CNN  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel  
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap  
-- **UI/UX Design:** Figma, Wireframing, Prototyping  
-- **Cloud & Tools:** Google Cloud Platform, Terraform, Git, GitHub
+🚀 Passionate **Data Analyst & AI Enthusiast** focused on uncovering insights and building real-world AI solutions.  
+🔍 Skilled in **data analysis**, **machine learning**, and **computer vision** with a love for visual storytelling.  
+💡 Always exploring **new technologies** and pushing the limits of what’s possible with **data & AI**.  
 
 ---
 
-## 💼 Projects
+## 🧠 Technical Arsenal
 
-### 🌫️ Automatic Air Quality and Mortality Prediction System
-- Developed a predictive system using **Prophet** and **XGBoost** to forecast air quality levels and mortality correlations.  
-- Enables policymakers to identify **high-risk regions** and improve **public health strategies**.  
-- **Tech:** Python, Pandas, Prophet, XGBoost, Matplotlib  
-
-### 🧬 Cervical Cancer Detection Using YOLOv7 and CNN
-- Built an automated medical imaging system using **YOLOv7** for detection and **CNN** for classification.  
-- Achieved high accuracy in early-stage cancer detection, aiding faster diagnosis.  
-- **Tech:** Python, TensorFlow, Keras, OpenCV  
-
-### 🌐 College Website (Capstone Project)
-- Designed a fully responsive website using **HTML, CSS, JavaScript, and Bootstrap**.  
-- Features interactive forms, responsive layouts, and smooth navigation.  
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-## 🏅 Achievements & Awards
+## 🧩 Featured Projects
 
-- 🥈 **2nd Place – SRET Research Day (Mar 2025)**  
-  *Project: Automatic Air Quality Prediction and Reporting System*  
-- Strengthened real-world skills in data analysis and AI-based forecasting.
+### 🌫️ Automatic Air Quality & Mortality Prediction System  
+🔹 Built using **Prophet** & **XGBoost** for time-series forecasting.  
+🔹 Predicts air quality trends and correlates with mortality data for actionable insights.  
+🔹 **Tech Stack:** Python, Pandas, XGBoost, Prophet, Matplotlib  
+
+### 🚗 Automatic Number Plate Recognition (ANPR) Using YOLOv7 + Tesseract OCR  
+🔹 Developed an **AI-based vehicle detection and license plate recognition system**.  
+🔹 Used **YOLOv7** for vehicle and plate detection, and **Tesseract OCR** for text extraction.  
+🔹 Planned expansion to **speed detection and dynamic camera-based tracking**.  
+🔹 **Tech Stack:** Python, OpenCV, YOLOv7, Tesseract OCR, NumPy  
+
+### 🌐 College Website (Capstone Project)  
+🔹 Fully responsive, interactive web design using **HTML, CSS, JavaScript, and Bootstrap**.  
+🔹 Focused on user experience and mobile optimization.  
+
+---
+
+## 🏅 Achievements
+
+🏆 **2nd Place – SRET Research Day (Mar 2025)**  
+*Project: Automatic Air Quality Prediction and Reporting System*  
+Enhanced data-driven public health prediction and awareness.
 
 ---
 
 ## 📜 Certifications
 
-- 🧠 *Introduction to Generative AI* – Google  
-- ☁️ *Google Cloud Skill Badges:*  
-  - Set Up an App Dev Environment  
-  - Implement Load Balancing  
-  - Cloud Security Fundamentals  
-  - Network Configuration  
-  - Terraform Infrastructure  
-- 🐍 *Python (Basic)* – HackerRank  
+🎓 **Google Cloud Skill Badges:**  
+☁️ App Development • Load Balancing • Cloud Security • Network Configuration • Terraform Infrastructure  
+
+🧠 **Introduction to Generative AI – Google**  
+🐍 **Python (Basic) – HackerRank**
 
 ---
 
-## 💬 Languages
+## 📊 GitHub Stats
 
-- English  
-- Tamil  
-
----
-
-## ⚡ Fun Fact
-
-I believe every dataset tells a story — you just have to listen with the right algorithms. 🧩  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeyadev2006&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyadev2006&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-⭐ **Check out my repositories below to see my work in AI, data analytics, and machine learning!**
+## 🌈 Let's Connect
+
+<p align="center">
+<a href="mailto:jeyadev2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/r-jeyadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/jeyadev2006"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<h4 align="center">✨ “Every dataset tells a story — I just listen with algorithms.” ✨</h4>
