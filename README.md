@@ -3,7 +3,7 @@
 <p align="center">
 🎓 <b>B.Tech (AI & Data Analytics)</b> | Sri Ramachandra Faculty of Engineering<br>
 📍 Chennai, India | 📧 <a href="mailto:jeyadev2006@gmail.com">jeyadev2006@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/r-jeyadev">LinkedIn</a> | 🌐 <a href="https://github.com/jeyadev2006">GitHub</a>
+🔗 <a href="https://www.linkedin.com/in/r-jeyadev">LinkedIn</a> | 🌐 <a href="https://github.com/jeyadev-jd">GitHub</a>
 </p>
 
 ---
@@ -75,8 +75,8 @@ Enhanced data-driven public health prediction and awareness.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeyadev2006&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyadev2006&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeyadev-jd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyadev-jd&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
