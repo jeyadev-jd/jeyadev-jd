@@ -3,7 +3,7 @@
 <p align="center">
 🎓 <b>B.Tech (AI & Data Analytics)</b> | Sri Ramachandra Faculty of Engineering<br>
 📍 Chennai, India | 📧 <a href="mailto:jeyadev2006@gmail.com">jeyadev2006@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/r-jeyadev">LinkedIn</a> | 🌐 <a href="https://github.com/jeyadev-jd">GitHub</a>
+🔗 <a href="https://www.linkedin.com/in/r-jeyadev">LinkedIn</a> 
 </p>
 
 ---
