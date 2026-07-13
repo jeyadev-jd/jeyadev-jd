@@ -1,94 +1,102 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">R Jeyadev</span></h1>
+<div align="center">
 
-<p align="center">
-🎓 <b>B.Tech (AI & Data Analytics)</b> | Sri Ramachandra Faculty of Engineering<br>
-📍 Chennai, India | 📧 <a href="mailto:jeyadev2006@gmail.com">jeyadev2006@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/r-jeyadev">LinkedIn</a> 
-</p>
+# Jeyadev R
 
----
+**AI/ML Engineer · Full-Stack Developer · Applied Research**
 
-## 🧑‍💻 About Me
+B.Tech Artificial Intelligence & Data Analytics · Sri Ramachandra Institute of Higher Education and Research · 2024–2028
 
-🚀 Passionate **Data Analyst & AI Enthusiast** focused on uncovering insights and building real-world AI solutions.  
-🔍 Skilled in **data analysis**, **machine learning**, and **computer vision** with a love for visual storytelling.  
-💡 Always exploring **new technologies** and pushing the limits of what’s possible with **data & AI**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-jeyadev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeyadev2006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeyadev.dev)
+
+</div>
 
 ---
 
-## 🧠 Technical Arsenal
+B.Tech student in AI and Data Analytics who learns by building. My work spans forecasting and risk models, computer vision, NLP and RAG, applied finance, and production full-stack SaaS. I prefer shipping a working version over polishing a slide.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+Currently interning across two cleantech companies and serving as a Student Council Member at SRIHER.
 
 ---
 
-## 🧩 Featured Projects
+## Tech Stack
 
-### 🌫️ Automatic Air Quality & Mortality Prediction System  
-🔹 Built using **Prophet** & **XGBoost** for time-series forecasting.  
-🔹 Predicts air quality trends and correlates with mortality data for actionable insights.  
-🔹 **Tech Stack:** Python, Pandas, XGBoost, Prophet, Matplotlib  
+**ML / AI**
+`Python` `TensorFlow` `PyTorch` `XGBoost` `LightGBM` `CatBoost` `Scikit-learn` `Prophet` `FastAPI` `FAISS` `sentence-transformers` `llama.cpp`
 
-### 🚗 Automatic Number Plate Recognition (ANPR) Using YOLOv7 + Tesseract OCR  
-🔹 Developed an **AI-based vehicle detection and license plate recognition system**.  
-🔹 Used **YOLOv7** for vehicle and plate detection, and **Tesseract OCR** for text extraction.  
-🔹 Planned expansion to **speed detection and dynamic camera-based tracking**.  
-🔹 **Tech Stack:** Python, OpenCV, YOLOv7, Tesseract OCR, NumPy  
+**Full-Stack**
+`React` `Next.js` `Node.js` `Express` `MongoDB` `PostgreSQL` `TypeScript` `Vite` `JWT`
 
-### 🌐 College Website (Capstone Project)  
-🔹 Fully responsive, interactive web design using **HTML, CSS, JavaScript, and Bootstrap**.  
-🔹 Focused on user experience and mobile optimization.  
+**Infrastructure**
+`Docker` `Cloudflare` `Vercel` `Wrangler` `Redis`
+
+**CV / NLP**
+`OpenCV` `YOLOv4` `Darknet` `TF-IDF` `ChemBERTa` `Grad-CAM`
 
 ---
 
-## 🏅 Achievements
+## Projects
 
-🏆 **2nd Place – SRET Research Day (Mar 2025)**  
-*Project: Automatic Air Quality Prediction and Reporting System*  
-Enhanced data-driven public health prediction and awareness.
+### AI / ML
+
+| Project | What it is | Stack |
+|---|---|---|
+| [sret-rag](https://github.com/jeyadev-jd/sret-rag) | Self-hosted RAG system on a 4-PC LAN cluster for my college — fully offline, no cloud | FastAPI · FAISS · llama.cpp · Qwen2.5 · SQLite |
+| [PolyBot](https://github.com/jeyadev-jd/polybot-prediction-arbitrage) | Autonomous trading engine for Polymarket — live order book ingestion, strategy scoring, on-chain execution | Python · FastAPI · Web3 · Redis · PostgreSQL · Docker |
+| [AbsorbAI](https://github.com/jeyadev-jd/AbsorbAI) | Clinical decision-support platform simulating drug behavior across ~45 drugs, with 10-layer PK/PD engine and Bayesian updates | Django · NetworkX · Gemma 1.5B |
+| [Market Oracle](https://github.com/jeyadev-jd/market-oracle) | Commodity price forecasting via 9-model ensemble + Bayesian meta-ensemble | PyTorch · NeuralProphet · Chronos · Transformers |
+| [AeroSight](https://github.com/jeyadev-jd/AeroSight) | AQI/mortality dual-model forecasting with auto-generated PDF reports — placed 2nd at Research Day 2025 | Prophet · XGBoost · Open-Meteo |
+| [Cardio Detection Engine](https://github.com/jeyadev-jd/cardio-disease-detection-engine) | Cardiovascular risk dashboard + API backed by a model zoo with auto-selected best model | Streamlit · Flask · XGBoost · LightGBM · CatBoost |
+| [Cardiovascular Risk Prediction](https://github.com/jeyadev-jd/cardiovascular-risk-prediction) | End-to-end ML pipeline with engineered features (BMI, MAP, pulse pressure, heuristic risk score) | scikit-learn · XGBoost · LightGBM · TensorFlow |
+| [AI Drug-Food Interactions](https://github.com/jeyadev-jd/ai-drug-food-interactions) | Classifies drug-food interactions into 6 categories via TF-IDF + ensemble (99.2% accuracy) | Scikit-learn · Streamlit |
+| [T20 Fantasy Impact Model](https://github.com/jeyadev-jd/t20-fantasy-impact-model) | Dual LightGBM models predicting batting/bowling impact for Dream11-style optimal XI selection | LightGBM · pandas · joblib |
+| [Intel Scene Classification](https://github.com/jeyadev-jd/intel-scene-classification) | CNN vs VGG16 vs bagged ensemble comparison on 6 scene classes (~93% accuracy) with Grad-CAM | TensorFlow · Keras · scikit-learn |
+| [ANPR-YOLOv4](https://github.com/jeyadev-jd/ANPR-YOLOv4) | Custom-trained YOLOv4 number plate detector for cars, bikes, and autos | YOLOv4 · Darknet · OpenCV |
+| [EcoSynth](https://github.com/jeyadev-jd/Ecosynth) | Neuro-symbolic green retrosynthesis planner combining symbolic chemistry rules, RAG, and a green-chemistry scorer | FastAPI · ChromaDB · ChemBERTa · React |
+| [HyperlocalAQ](https://github.com/jeyadev-jd/HyperlocalAQ) | High-res Chennai AQ modeling integrating 7 APIs with hybrid IDW and fire/traffic adjustments | Python · Folium |
+| [Pollumap V3](https://github.com/jeyadev-jd/Pollumap-V3) | Real-time AQI dashboard with XGBoost 24h forecasts, A* healthy routing, and IoT sensor view | React · Flask · MongoDB · XGBoost · Leaflet |
+
+### Full-Stack / SaaS
+
+| Project | What it is | Stack |
+|---|---|---|
+| [ASPCV CRM](https://github.com/jeyadev-jd/aspcv-crm) | Full-stack CRM covering lead → deal → project → installation → support + HR, payroll, inventory, invoicing, and RBAC | React · TypeScript · Node.js · Express · PostgreSQL |
+| [Aspiration Cleantech Ventures](https://aspcv.vercel.app/) | Production MERN-stack platform for a solar energy company — JWT auth, Helmet security, Cloudinary uploads | React · Vite · TypeScript · Node.js · MongoDB |
+| [Aspiration Cleantech Academy](https://aspcvacademy.com/) | Job-oriented training platform (HVAC, entrepreneurship, digital marketing) deployed live on Cloudflare | Next.js · TypeScript · Express · MongoDB |
+| [sret-noticeboard](https://github.com/jeyadev-jd/sret-noticeboard) | College notice board with admin panel, role-based auth, image notices, and FullCalendar event calendar | Node.js · Express · MongoDB · JWT · Multer |
+| [VoteIQ](https://vote-iq-five.vercel.app/) | AI civic education app for first-time Indian voters — built in 8 hours at Google Prompt Wars | Flask · Gemini 2.0 Flash · Google OAuth |
+
+### Tooling / Visualization
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Advanced CLI Web Scrapper](https://github.com/jeyadev-jd/Advanced-CLI-Web-Scrapper) | Full-site archiver handling dynamic pages, crawl depth, URL filtering, and concurrent downloads | Python · Playwright · BeautifulSoup |
+| [Quantum Teleportation Simulation](https://jeyadev-jd.github.io/Quantum-Teleportation-Simulation/) | Zero-dependency browser visualizer for the quantum teleportation protocol with noise models | JavaScript · SVG |
+| [Sudoku Visualisation](https://github.com/jeyadev-jd/Sudoku-Visualisation) | Side-by-side Backtracking vs MRV timing comparison with native graphics | C++ · SFML |
+| [InstaAnalyzer](https://github.com/jeyadev-jd/InstaAnalyzer) | Identifies mutual followers and non-followbacks with clean terminal output | Python · Instaloader · Rich |
+| [Arduino Calc: Matrix Edition](https://www.youtube.com/watch?v=08GiG0zbWGA) | Calculator mapping Von Neumann CPU concepts to Arduino hardware with a Web Serial matrix UI | Arduino · Web Serial API |
+| [Urban Farming Simulator](https://github.com/jeyadev-jd/Urban-Farming-Simulator) | OOP rooftop farm sim modeling crop biology, seasonal weather, and market fluctuations | Java |
+| [Crorepati Quiz Game](https://github.com/jeyadev-jd/Crorepati-A-CLI-Based-Quiz-Game-Using-Java) | CLI quiz game inspired by Kaun Banega Crorepati with lifelines and prize escalation | Java |
 
 ---
 
-## 📜 Certifications
+## Experience
 
-🎓 **Google Cloud Skill Badges:**  
-☁️ App Development • Load Balancing • Cloud Security • Network Configuration • Terraform Infrastructure  
+**ASPCV CRM — SaaS Developer Intern** · Aspiration Cleantech Ventures · May 2026–Present
 
-🧠 **Introduction to Generative AI – Google**  
-🐍 **Python (Basic) – HackerRank**
+**Full-Stack Developer Intern** · Aspiration Cleantech Ventures · Jan–Mar 2026
 
----
+**Digital Marketing Intern** · Aspiration Cleantech Academy · May 2026–Present
 
-## 📊 GitHub Stats
+**Machine Learning Intern** · Sri Ramachandra Faculty of Engineering and Technology · May–Jul 2025
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeyadev-jd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyadev&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+**Student Council Member** · SRIHER · Jul 2026–Present
 
 ---
 
-## 🌈 Let's Connect
+<div align="center">
 
-<p align="center">
-<a href="mailto:jeyadev2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/r-jeyadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/jeyadev2006"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+**26+ projects · 2 companies · Chennai, India**
 
----
-
-<h4 align="center">✨ “Every dataset tells a story — I just listen with algorithms.” ✨</h4>
+</div>
