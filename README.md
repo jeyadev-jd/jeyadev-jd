@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://jeyadev.dev"><img src="https://jeyadev.dev/jeyadev-r.jpg" alt="Jeyadev R, AI/ML Engineer from Chennai, India" width="160" height="160" style="border-radius:50%"></a>
+
 # Jeyadev R
 
 **AI/ML Engineer · Full-Stack Developer · Applied Research**
