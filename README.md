@@ -38,10 +38,16 @@ Currently interning across two cleantech companies and serving as a Student Coun
 
 ## Projects
 
+Full write-ups for every project: **[jeyadev.dev/projects](https://jeyadev.dev/projects)**
+
 ### AI / ML
 
 | Project | What it is | Stack |
 |---|---|---|
+| [ScamShield](https://github.com/jeyadev-jd/ScamShield) | Explainable, obfuscation-robust scam SMS detector for Indian messages — 8 models benchmarked, deployed SVM hits 0.97 F1 | scikit-learn · PyTorch · DistilBERT · FastAPI · React |
+| [PHYS-TRUST Lite](https://github.com/jeyadev-jd/phys-trust-lite) | Trust-adaptive, physics-informed air-quality estimation on one Arduino node with an LSTM-ensemble prior and conformal bands | Arduino · PyTorch · FastAPI · React · Ollama |
+| [FRONTIER](https://github.com/jeyadev-jd/FRONTIER) | Local AI content agent for a student Discord community — drafts posts in your style, publishes only after human approval | FastAPI · React · Ollama · discord.py · MCP |
+| [GloVe from Scratch](https://github.com/jeyadev-jd/glove-wikitext2) | GloVe word embeddings from first principles on WikiText-2 — hand-derived gradients, manual AdaGrad, no autograd | PyTorch · CUDA · NumPy |
 | [sret-rag](https://github.com/jeyadev-jd/sret-rag) | Self-hosted RAG system on a 4-PC LAN cluster for my college — fully offline, no cloud | FastAPI · FAISS · llama.cpp · Qwen2.5 · SQLite |
 | [PolyBot](https://github.com/jeyadev-jd/polybot-prediction-arbitrage) | Autonomous trading engine for Polymarket — live order book ingestion, strategy scoring, on-chain execution | Python · FastAPI · Web3 · Redis · PostgreSQL · Docker |
 | [AbsorbAI](https://github.com/jeyadev-jd/AbsorbAI) | Clinical decision-support platform simulating drug behavior across ~45 drugs, with 10-layer PK/PD engine and Bayesian updates | Django · NetworkX · Gemma 1.5B |
@@ -61,6 +67,7 @@ Currently interning across two cleantech companies and serving as a Student Coun
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Attendance ERP](https://github.com/jeyadev-jd/attendance-erp) | Multi-semester college attendance system built for real timetables — multi-hour labs, partial exam days, bunk detection | Next.js · Hono · Cloudflare Workers · D1 · Prisma |
 | [ASPCV CRM](https://github.com/jeyadev-jd/aspcv-crm) | Full-stack CRM covering lead → deal → project → installation → support + HR, payroll, inventory, invoicing, and RBAC | React · TypeScript · Node.js · Express · PostgreSQL |
 | [Aspiration Cleantech Ventures](https://aspcv.vercel.app/) | Production MERN-stack platform for a solar energy company — JWT auth, Helmet security, Cloudinary uploads | React · Vite · TypeScript · Node.js · MongoDB |
 | [Aspiration Cleantech Academy](https://aspcvacademy.com/) | Job-oriented training platform (HVAC, entrepreneurship, digital marketing) deployed live on Cloudflare | Next.js · TypeScript · Express · MongoDB |
@@ -97,6 +104,6 @@ Currently interning across two cleantech companies and serving as a Student Coun
 
 <div align="center">
 
-**26+ projects · 2 companies · Chennai, India**
+**31+ projects · 2 companies · Chennai, India · [jeyadev.dev](https://jeyadev.dev)**
 
 </div>
