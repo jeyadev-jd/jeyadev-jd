@@ -11,6 +11,7 @@ B.Tech Artificial Intelligence & Data Analytics · Sri Ramachandra Institute of 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-jeyadev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeyadev2006@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeyadev.dev)
+[![Follow on GitHub](https://img.shields.io/github/followers/jeyadev-jd?label=Follow&style=flat-square&logo=github)](https://github.com/jeyadev-jd?tab=followers)
 
 </div>
 
@@ -107,5 +108,7 @@ Full write-ups for every project: **[jeyadev.dev/projects](https://jeyadev.dev/p
 <div align="center">
 
 **31+ projects · 2 companies · Chennai, India · [jeyadev.dev](https://jeyadev.dev)**
+
+If something here is useful, ⭐ the repo or follow for new projects.
 
 </div>
